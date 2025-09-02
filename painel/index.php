@@ -240,7 +240,7 @@ if (@count($res1) > 0) {
 
 									<li class="dropdown nav-item  main-header-message <?php echo $receber ?>">
 										<a class="new nav-link" data-bs-toggle="dropdown" href="javascript:void(0);">
-											<small><i class="fa fa-dollar"></i></small>
+											<small><i class="fa fa-money"></i></small>
 											<span class="badge  header-badge" style="background:green"><?php echo $linhas ?></span>
 										</a>
 
@@ -308,7 +308,7 @@ if (@count($res1) > 0) {
 
 									<li class="dropdown nav-item  main-header-message <?php echo $pagar ?>">
 										<a class="new nav-link" data-bs-toggle="dropdown" href="javascript:void(0);">
-											<small><i class="fa fa-dollar"></i></small>
+											<small><i class="fa fa-money"></i></small>
 											<span class="badge  header-badge" style="background:red"><?php echo $linhas ?></span>
 										</a>
 

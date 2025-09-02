@@ -255,7 +255,7 @@ if (@$home == 'ocultar') {
 						<div class="col-4">
 
 							<div class=" zoom circle-icon iconBgSusses text-center align-self-center overflow-hidden">
-								<i class="fe fe-user tx-16 text-white"></i>
+								<i class="fe fe-user tx-16 text-black"></i>
 							</div>
 
 						</div>
@@ -288,7 +288,7 @@ if (@$home == 'ocultar') {
 						<div class="col-4">
 
 							<div class="zoom circle-icon iconBgDanger text-center align-self-center overflow-hidden">
-								<i class="bi bi-currency-dollar tx-16 text-white"></i>
+								<i class="bi bi-currency-dollar tx-16 text-black"></i>
 							</div>
 
 						</div>
@@ -320,7 +320,7 @@ if (@$home == 'ocultar') {
 						<div class="col-4">
 
 							<div class=" zoom circle-icon iconBgSusses text-center align-self-center overflow-hidden">
-								<i class="bi bi-currency-dollar tx-16 text-white"></i>
+								<i class="bi bi-currency-dollar tx-16 text-black"></i>
 							</div>
 
 						</div>
@@ -355,7 +355,7 @@ if (@$home == 'ocultar') {
 						<div class="col-4">
 
 							<div class=" zoom circle-icon text-center align-self-center overflow-hidden <?php echo $classe_saldo2 ?>">
-								<i class="bi bi-currency-dollar tx-16 text-white"></i>
+								<i class="bi bi-currency-dollar tx-16 text-black"></i>
 							</div>
 
 						</div>

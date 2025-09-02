@@ -424,7 +424,7 @@ if (@count($res1) > 0) {
 							<li class="slide <?php echo @$home ?>">
 								<a class="side-menu__item" href="index.php">
 									<i class="fa fa-home text-white"></i>
-									<span class="side-menu__label" style="margin-left: 15px">Dashboard</span></a>
+									<span class="side-menu__label" style="margin-left: 15px">Home</span></a>
 							</li>
 
 
@@ -452,7 +452,7 @@ if (@count($res1) > 0) {
 
 							<li class="slide <?php echo @$menu_cadastros ?>">
 								<a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0);">
-									<i class="fa fa-save text-white mt-1"></i>
+									<i class="fa fa-folder-open text-white mt-1"></i>
 									<span class="side-menu__label" style="margin-left: 15px">Cadastros</span><i
 										class="angle fe fe-chevron-right"></i></a>
 								<ul class="slide-menu">
@@ -485,7 +485,7 @@ if (@count($res1) > 0) {
 
 								<li class="slide <?php echo @$menu_agendamentos ?>">
 								<a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0);">
-									<i class="fa fa-calendar text-white mt-1"></i>
+									<i class="fa fa-calendar-plus-o text-white mt-1"></i>
 									<span class="side-menu__label" style="margin-left: 15px">Agendamentos</span><i
 										class="angle fe fe-chevron-right"></i></a>
 								<ul class="slide-menu">
@@ -547,7 +547,7 @@ if (@count($res1) > 0) {
 
 							<li class="slide <?php echo @$tarefas ?>">
 								<a class="side-menu__item" href="tarefas">
-									<i class="fa fa-calendar text-white"></i>
+									<i class="fa fa-calendar-check-o text-white"></i>
 									<span class="side-menu__label" style="margin-left: 15px">Tarefas / Agenda</span></a>
 							</li>
 

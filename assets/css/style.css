@@ -4,9 +4,9 @@
 
 
 :root {
-  --template1: #3deac9;
+  --template1: #33a28d;
   --template2: #6ca13d;
-  --template3: #33a28d; 
+  --template3: #3deac9; 
 }
 .row{
     margin-bottom: 12px;

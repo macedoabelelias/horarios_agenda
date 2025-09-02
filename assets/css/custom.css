@@ -1,10 +1,10 @@
 :root {
     /*  Padrão  */
-  --template1: #3deac9;
+  --template1: #33a28d;
    /* Painel lateral */
   --template2: #6ca13d;
     /* cor hover */
-  --template3: #33a28d; 
+  --template3: #3deac9; 
 }
 .field-icon {
   float: right;
